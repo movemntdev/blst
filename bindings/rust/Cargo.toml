@@ -1,5 +1,5 @@
 [package]
-name = "blst"
+name = "aptos_blst"
 version = "0.3.10"
 authors = ["sean-sn <sean@supranational.net>"]
 edition = "2018"
